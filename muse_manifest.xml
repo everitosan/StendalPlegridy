@@ -1,0 +1,225 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="plegridy.comuf.com" resolutions="1x" timestamp="1479183681139">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-p_g_-maestra.css" crc="3944787009" ref="eficacia-rmn-2:pegilación:tolerabilidad-2:eficacia-recaídas:resumen-plegridy-2:modo-de-uso-2:eficacia-rmn-1:tolerabilidad-1:proceso:resumen-plegridy-1:modo-de-uso-1:eficacia-progresión-de-la-discapacidad"/>
+    <file name="eficacia-rmn-2.css" crc="4148088597" ref="eficacia-rmn-2"/>
+    <file name="pegilaci_n.css" crc="391928452" ref="pegilación"/>
+    <file name="tolerabilidad-2.css" crc="71303190" ref="tolerabilidad-2"/>
+    <file name="eficacia-reca_das.css" crc="4008849891" ref="eficacia-recaídas"/>
+    <file name="resumen-plegridy-2.css" crc="316535128" ref="resumen-plegridy-2"/>
+    <file name="modo-de-uso-2.css" crc="85189977" ref="modo-de-uso-2"/>
+    <file name="index.css" crc="121746989" ref="index"/>
+    <file name="eficacia-rmn-1.css" crc="179733220" ref="eficacia-rmn-1"/>
+    <file name="tolerabilidad-1.css" crc="4022611934" ref="tolerabilidad-1"/>
+    <file name="proceso.css" crc="143808233" ref="proceso"/>
+    <file name="resumen-plegridy-1.css" crc="230463617" ref="resumen-plegridy-1"/>
+    <file name="modo-de-uso-1.css" crc="3993834718" ref="modo-de-uso-1"/>
+    <file name="referencias.css" crc="371261677" ref="referencias"/>
+    <file name="eficacia-progresi_n-de-la-discapacidad.css" crc="408350127" ref="eficacia-progresión-de-la-discapacidad"/>
+  </folder>
+  <folder name="assets">
+    <folder name="portada-animación">
+      <folder name="images">
+        <file name="Ayuda Visual PLEGRIDY ipad 2_atlas_.png" crc="4243737304" mt="1477460384000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad 7_atlas_.png" crc="503642017" mt="1477460384000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad 8_atlas_.png" crc="3909447116" mt="1477460384000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad port_atlas_.png" crc="159866667" mt="1477460384000"/>
+        <file name="Image.png" crc="4260642285" mt="1477460384000"/>
+        <file name="linea 12_atlas_.png" crc="98387315" mt="1477460384000"/>
+        <file name="portada animación_atlas_.png" crc="508528178" mt="1477460384000"/>
+      </folder>
+      <file name="portada animación.js" crc="282989871" mt="1477460384000"/>
+      <file name="portada animación.html" crc="4053051722" mt="1477460384000"/>
+    </folder>
+    <folder name="linea-12">
+      <folder name="images">
+        <file name="Ayuda Visual PLEGRIDY ipad 2_atlas_.png" crc="4243737304" mt="1476942803000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad 7_atlas_.png" crc="503642017" mt="1476942803000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad 8_atlas_.png" crc="3909447116" mt="1476942803000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad port_atlas_.png" crc="159866667" mt="1476942803000"/>
+        <file name="Image.png" crc="4260642285" mt="1476942803000"/>
+        <file name="linea 12_atlas_.png" crc="98387315" mt="1476942803000"/>
+        <file name="portada animación_atlas_.png" crc="508528178" mt="1476942803000"/>
+      </folder>
+      <file name="linea 12.js" crc="527283604" mt="1476942803000"/>
+      <file name="linea 12.html" crc="269778093" mt="1476942803000"/>
+    </folder>
+    <folder name="pleca-10">
+      <folder name="images">
+        <file name="Ayuda Visual PLEGRIDY ipad 2_atlas_.png" crc="4243737304" mt="1476942912000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad 7_atlas_.png" crc="503642017" mt="1476942912000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad 8_atlas_.png" crc="3909447116" mt="1476942912000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad port_atlas_.png" crc="159866667" mt="1476942912000"/>
+        <file name="Image.png" crc="4260642285" mt="1476942912000"/>
+        <file name="linea 12_atlas_.png" crc="98387315" mt="1476942912000"/>
+        <file name="portada animación_atlas_.png" crc="508528178" mt="1476942912000"/>
+      </folder>
+      <file name="pleca 10.js" crc="4111665832" mt="1476942912000"/>
+      <file name="pleca 10.html" crc="81842691" mt="1476942912000"/>
+    </folder>
+    <folder name="pleca12">
+      <folder name="images">
+        <file name="Ayuda Visual PLEGRIDY ipad 2_atlas_.png" crc="4243737304" mt="1476939191000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad 7_atlas_.png" crc="503642017" mt="1476939191000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad 8_atlas_.png" crc="3909447116" mt="1476939191000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad port_atlas_.png" crc="159866667" mt="1476939191000"/>
+        <file name="Image.png" crc="4260642285" mt="1476939191000"/>
+        <file name="portada animación_atlas_.png" crc="508528178" mt="1476939191000"/>
+      </folder>
+      <file name="pleca12.js" crc="3913618082" mt="1476939191000"/>
+      <file name="pleca12.html" crc="4003550013" mt="1476939191000"/>
+    </folder>
+    <folder name="ayuda-visual-plegridy-ipad-11">
+      <folder name="images">
+        <file name="Ayuda Visual PLEGRIDY ipad 2_atlas_.png" crc="4243737304" mt="1476934334000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad 7_atlas_.png" crc="503642017" mt="1476934334000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad 8_atlas_.png" crc="3909447116" mt="1476934334000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad port_atlas_.png" crc="159866667" mt="1476934334000"/>
+        <file name="Image.png" crc="4260642285" mt="1476934334000"/>
+        <file name="portada animación_atlas_.png" crc="508528178" mt="1476934334000"/>
+      </folder>
+      <file name="Ayuda Visual PLEGRIDY ipad 11.js" crc="3916464860" mt="1476934334000"/>
+      <file name="Ayuda Visual PLEGRIDY ipad 11.html" crc="4277183823" mt="1476934334000"/>
+    </folder>
+    <folder name="ayuda-visual-plegridy-ipad-8">
+      <folder name="images">
+        <file name="Ayuda Visual PLEGRIDY ipad 2_atlas_.png" crc="4243737304" mt="1476860506000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad 7_atlas_.png" crc="503642017" mt="1476860506000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad 8_atlas_.png" crc="3909447116" mt="1476860506000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad port_atlas_.png" crc="159866667" mt="1476860506000"/>
+        <file name="portada animación_atlas_.png" crc="508528178" mt="1476860506000"/>
+      </folder>
+      <file name="Ayuda Visual PLEGRIDY ipad 8.js" crc="278231904" mt="1476860506000"/>
+      <file name="Ayuda Visual PLEGRIDY ipad 8.html" crc="336914541" mt="1476860506000"/>
+    </folder>
+    <folder name="ayuda-visual-plegridy-ipad-7">
+      <folder name="images">
+        <file name="Ayuda Visual PLEGRIDY ipad 2_atlas_.png" crc="4243737304" mt="1476859105000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad 7_atlas_.png" crc="503642017" mt="1476859105000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad port_atlas_.png" crc="159866667" mt="1476859105000"/>
+        <file name="portada animación_atlas_.png" crc="508528178" mt="1476859105000"/>
+      </folder>
+      <file name="Ayuda Visual PLEGRIDY ipad 7.js" crc="4037357449" mt="1476859105000"/>
+      <file name="Ayuda Visual PLEGRIDY ipad 7.html" crc="145537946" mt="1476859105000"/>
+    </folder>
+    <folder name="pleca-4">
+      <folder name="images">
+        <file name="Ayuda Visual PLEGRIDY ipad 2_atlas_.png" crc="4243737304" mt="1476588089000"/>
+        <file name="Ayuda Visual PLEGRIDY ipad port_atlas_.png" crc="159866667" mt="1476588089000"/>
+      </folder>
+      <file name="pleca 4.js" crc="156958303" mt="1476588089000"/>
+      <file name="pleca 4.html" crc="4143069998" mt="1476588089000"/>
+    </folder>
+    <folder name="pleca-3">
+      <folder name="images">
+        <file name="Ayuda Visual PLEGRIDY ipad 2_atlas_.png" crc="4243737304" mt="1476586975000"/>
+      </folder>
+      <file name="pleca 3.js" crc="254837858" mt="1476586975000"/>
+      <file name="pleca 3.html" crc="472149100" mt="1476586975000"/>
+    </folder>
+    <folder name="ayuda-visual-plegridy-ipad-2">
+      <folder name="images">
+        <file name="Ayuda Visual PLEGRIDY ipad 2_atlas_.png" crc="4243737304" mt="1476586950000"/>
+      </folder>
+      <file name="Ayuda Visual PLEGRIDY ipad 2.js" crc="4080228083" mt="1476586950000"/>
+      <file name="Ayuda Visual PLEGRIDY ipad 2.html" crc="3780281311" mt="1476586950000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:pegilación:proceso:eficacia-recaídas:eficacia-progresión-de-la-discapacidad:eficacia-rmn-1:eficacia-rmn-2:tolerabilidad-1:tolerabilidad-2:resumen-plegridy-1:resumen-plegridy-2:modo-de-uso-1:modo-de-uso-2:referencias"/>
+    <file name="museutils.js" crc="163421577" ref="index:pegilación:proceso:eficacia-recaídas:eficacia-progresión-de-la-discapacidad:eficacia-rmn-1:eficacia-rmn-2:tolerabilidad-1:tolerabilidad-2:resumen-plegridy-1:resumen-plegridy-2:modo-de-uso-1:modo-de-uso-2:referencias"/>
+    <file name="whatinput.js" crc="86476730" ref="index:pegilación:proceso:eficacia-recaídas:eficacia-progresión-de-la-discapacidad:eficacia-rmn-1:eficacia-rmn-2:tolerabilidad-1:tolerabilidad-2:resumen-plegridy-1:resumen-plegridy-2:modo-de-uso-1:modo-de-uso-2:referencias"/>
+    <file name="museconfig.js" crc="36584860" ref="index:pegilación:proceso:eficacia-recaídas:eficacia-progresión-de-la-discapacidad:eficacia-rmn-1:eficacia-rmn-2:tolerabilidad-1:tolerabilidad-2:resumen-plegridy-1:resumen-plegridy-2:modo-de-uso-1:modo-de-uso-2:referencias"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:pegilación:proceso:eficacia-recaídas:eficacia-progresión-de-la-discapacidad:eficacia-rmn-1:eficacia-rmn-2:tolerabilidad-1:tolerabilidad-2:resumen-plegridy-1:resumen-plegridy-2:modo-de-uso-1:modo-de-uso-2:referencias"/>
+    <file name="require.js" crc="244322403" ref="index:pegilación:proceso:eficacia-recaídas:eficacia-progresión-de-la-discapacidad:eficacia-rmn-1:eficacia-rmn-2:tolerabilidad-1:tolerabilidad-2:resumen-plegridy-1:resumen-plegridy-2:modo-de-uso-1:modo-de-uso-2:referencias"/>
+    <file name="webpro.js" crc="3848665353" ref="pegilación:eficacia-recaídas:eficacia-progresión-de-la-discapacidad:eficacia-rmn-1:eficacia-rmn-2:resumen-plegridy-1:resumen-plegridy-2:referencias"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="pegilación:eficacia-recaídas:eficacia-progresión-de-la-discapacidad:eficacia-rmn-1:eficacia-rmn-2:resumen-plegridy-1:resumen-plegridy-2:referencias"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="pegilación:eficacia-recaídas:eficacia-progresión-de-la-discapacidad:eficacia-rmn-1:eficacia-rmn-2:resumen-plegridy-1:resumen-plegridy-2:referencias"/>
+    <file name="touchswipe.js" crc="404375771" ref="pegilación:eficacia-recaídas:eficacia-progresión-de-la-discapacidad:eficacia-rmn-1:eficacia-rmn-2:resumen-plegridy-1:resumen-plegridy-2:referencias"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="referencias"/>
+    <file name="html5shiv.js" crc="4241844378" ref="referencias"/>
+  </folder>
+  <folder name="images">
+    <file name="portada-01.jpg" crc="3996949692" seo="true" ref="index"/>
+    <file name="svg-pegado-1005x58.svg" crc="4171198256" seo="true" ref="index:pegilación:proceso:eficacia-recaídas:eficacia-progresión-de-la-discapacidad:eficacia-rmn-1:eficacia-rmn-2:tolerabilidad-1:tolerabilidad-2:resumen-plegridy-1:resumen-plegridy-2:modo-de-uso-1:modo-de-uso-2:referencias"/>
+    <file name="svg pegado 1005x58_poster_.png" crc="3824921685" ref="index"/>
+    <file name="fondo plegridy.jpg" crc="4129683506" seo="true" ref="pegilación:proceso:eficacia-recaídas:eficacia-progresión-de-la-discapacidad:eficacia-rmn-1:eficacia-rmn-2:tolerabilidad-1:tolerabilidad-2:resumen-plegridy-1:resumen-plegridy-2:modo-de-uso-1:modo-de-uso-2"/>
+    <file name="svg-pegado-136059x99.svg" crc="515257142" seo="true" ref="pegilación:proceso"/>
+    <file name="svg pegado 136059x99_poster_.png" crc="300440673" ref="pegilación"/>
+    <file name="svg-pegado-1546028x350.svg" crc="3785271104" seo="true" ref="pegilación"/>
+    <file name="svg pegado 1546028x350_poster_.png" crc="3879364613" ref="pegilación"/>
+    <file name="grafica11007x756.jpg" crc="3791803676" seo="true" ref="pegilación"/>
+    <file name="grafica1.jpg" crc="3801161677" seo="true" ref="pegilación"/>
+    <file name="cerrar.png" crc="3947796634" seo="true" ref="pegilación:eficacia-recaídas:eficacia-progresión-de-la-discapacidad:eficacia-rmn-1:eficacia-rmn-2:resumen-plegridy-1:resumen-plegridy-2"/>
+    <file name="grafica2.png" crc="3935713051" seo="true" ref="proceso"/>
+    <file name="svg-pegado-1056472x353.svg" crc="4181482062" seo="true" ref="proceso"/>
+    <file name="svg pegado 1056472x353_poster_.png" crc="3949938474" ref="proceso"/>
+    <file name="svg-pegado-1384065x825.svg" crc="324777549" seo="true" ref="eficacia-recaídas"/>
+    <file name="svg pegado 1384065x825_poster_.png" crc="3827747333" ref="eficacia-recaídas"/>
+    <file name="grafica3896x554.jpg" crc="94261769" seo="true" ref="eficacia-recaídas"/>
+    <file name="grafica3.jpg" crc="440883058" seo="true" ref="eficacia-recaídas"/>
+    <file name="svg-pegado-1300981x843.svg" crc="49930176" seo="true" ref="eficacia-progresión-de-la-discapacidad"/>
+    <file name="svg pegado 1300981x843_poster_.png" crc="80527745" ref="eficacia-progresión-de-la-discapacidad"/>
+    <file name="grafica4875x543.png" crc="256593696" seo="true" ref="eficacia-progresión-de-la-discapacidad"/>
+    <file name="grafica4.png" crc="4253295827" seo="true" ref="eficacia-progresión-de-la-discapacidad"/>
+    <file name="svg-pegado-101459x99.svg" crc="311604430" seo="true" ref="eficacia-rmn-1:eficacia-rmn-2"/>
+    <file name="svg pegado 101459x99_poster_.png" crc="214982169" ref="eficacia-rmn-1"/>
+    <file name="svg-pegado-1115995x108.svg" crc="3979945754" seo="true" ref="eficacia-rmn-1"/>
+    <file name="svg pegado 1115995x108_poster_.png" crc="415108791" ref="eficacia-rmn-1"/>
+    <file name="5b804x471.jpg" crc="276399059" seo="true" ref="eficacia-rmn-1"/>
+    <file name="5b.jpg" crc="4097167715" seo="true" ref="eficacia-rmn-1"/>
+    <file name="5a805x471.jpg" crc="3960413885" seo="true" ref="eficacia-rmn-1"/>
+    <file name="5a.jpg" crc="291826585" seo="true" ref="eficacia-rmn-1"/>
+    <file name="svg-pegado-1282468x793.svg" crc="3779796345" seo="true" ref="eficacia-rmn-2"/>
+    <file name="svg pegado 1282468x793_poster_.png" crc="3883647491" ref="eficacia-rmn-2"/>
+    <file name="grafica6685x391.jpg" crc="4225476508" seo="true" ref="eficacia-rmn-2"/>
+    <file name="grafica6.jpg" crc="4121971182" seo="true" ref="eficacia-rmn-2"/>
+    <file name="svg-pegado-181289x305.svg" crc="304651176" seo="true" ref="tolerabilidad-1:tolerabilidad-2"/>
+    <file name="svg pegado 181289x305_poster_.png" crc="4050018597" ref="tolerabilidad-1"/>
+    <file name="svg-pegado-182719x901.svg" crc="3762224198" seo="true" ref="resumen-plegridy-1"/>
+    <file name="svg pegado 182719x901_poster_.png" crc="66701403" ref="resumen-plegridy-1"/>
+    <file name="grafica9542x373.jpg" crc="287873412" seo="true" ref="resumen-plegridy-1"/>
+    <file name="grafica9.jpg" crc="92106260" seo="true" ref="resumen-plegridy-1"/>
+    <file name="svg-pegado-1279178x238.svg" crc="3973615614" seo="true" ref="resumen-plegridy-2"/>
+    <file name="svg pegado 1279178x238_poster_.png" crc="4031987971" ref="resumen-plegridy-2"/>
+    <file name="grafica10845x556.jpg" crc="3834753024" seo="true" ref="resumen-plegridy-2"/>
+    <file name="grafica10.jpg" crc="272658271" seo="true" ref="resumen-plegridy-2"/>
+    <file name="svg-pegado-1221926x998.svg" crc="4227055767" seo="true" ref="modo-de-uso-1"/>
+    <file name="svg pegado 1221926x998_poster_.png" crc="4162414940" ref="modo-de-uso-1"/>
+    <file name="svg-pegado-1311886x933.svg" crc="402271028" seo="true" ref="modo-de-uso-2"/>
+    <file name="svg pegado 1311886x933_poster_.png" crc="3814626493" ref="modo-de-uso-2"/>
+    <file name="13-01.jpg" crc="3994906966" seo="true" ref="referencias"/>
+    <file name="svg-pegado-1698527x273.svg" crc="110594872" seo="true" ref="referencias"/>
+    <file name="svg pegado 1698527x273_poster_.png" crc="3992519951" ref="referencias"/>
+    <file name="u4756-4.png" crc="153123613" ref="referencias"/>
+    <file name="u4667-4.png" crc="4122462659" ref="referencias"/>
+    <file name="u4671-4.png" crc="4014176448" ref="referencias"/>
+    <file name="u4688-4.png" crc="481459663" ref="referencias"/>
+    <file name="u4726-4.png" crc="519778876" ref="referencias"/>
+    <file name="u4692-4.png" crc="4060475464" ref="referencias"/>
+    <file name="u4719-4.png" crc="42838366" ref="referencias"/>
+    <file name="u4713-4.png" crc="3794371709" ref="referencias"/>
+    <file name="u4749-4.png" crc="4283019582" ref="referencias"/>
+    <file name="u4707-4.png" crc="4054344196" ref="referencias"/>
+    <file name="u4741-4.png" crc="324560864" ref="referencias"/>
+    <file name="u4735-4.png" crc="4208032219" ref="referencias"/>
+    <file name="u4698-4.png" crc="329939756" ref="referencias"/>
+    <file name="u4678-4-a.png" crc="4142947632" ref="referencias"/>
+    <file name="pdf.jpg" crc="4220804756" seo="true" ref="referencias"/>
+    <file name="ipp.jpg" crc="3934660420" seo="true" ref="referencias"/>
+  </folder>
+  <file name="index.html" crc="127508824" seo="true" mt="1479183634342" redirect="true"/>
+  <file name="pegilación.html" crc="3937054186" seo="true" mt="1478924673214" redirect="true"/>
+  <file name="proceso.html" crc="3761870605" seo="true" mt="1478924673214" redirect="true"/>
+  <file name="eficacia-recaídas.html" crc="171255082" seo="true" mt="1478924673214" redirect="true"/>
+  <file name="eficacia-progresión-de-la-discapacidad.html" crc="4180733262" seo="true" mt="1478924673214" redirect="true"/>
+  <file name="eficacia-rmn-1.html" crc="337246853" seo="true" mt="1478924673214" redirect="true"/>
+  <file name="eficacia-rmn-2.html" crc="206202655" seo="true" mt="1478924673214" redirect="true"/>
+  <file name="tolerabilidad-1.html" crc="208610870" seo="true" mt="1478924673214" redirect="true"/>
+  <file name="tolerabilidad-2.html" crc="3971557468" seo="true" mt="1478924673214" redirect="true"/>
+  <file name="resumen-plegridy-1.html" crc="271143163" seo="true" mt="1478924673214" redirect="true"/>
+  <file name="resumen-plegridy-2.html" crc="352065086" seo="true" mt="1478924673214" redirect="true"/>
+  <file name="modo-de-uso-1.html" crc="534778328" seo="true" mt="1478924673214" redirect="true"/>
+  <file name="modo-de-uso-2.html" crc="172199865" seo="true" mt="1478924673214" redirect="true"/>
+  <file name="referencias.html" crc="3927475602" seo="true" mt="1478924920949" redirect="true"/>
+</manifest>
