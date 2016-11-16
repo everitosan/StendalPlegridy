@@ -103,15 +103,21 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
    </div>
    <div class="verticalspacer" data-offset-top="1536" data-content-above-spacer="1536" data-content-below-spacer="62"></div>
-   <a href="res/IPP PLEGRIDY 2808.pdf" target="_blank">
+   <div id="PDFTrigger">
      <div class="clip_frame grpelem" id="u3589"><!-- image -->
          <img class="block" id="u3589_img" src="images/pdf.jpg?crc=4220804756" alt="" width="145" height="200"/>
      </div>
      <div class="clip_frame grpelem" id="u3603"><!-- image -->
       <img class="block" id="u3603_img" src="images/ipp.jpg?crc=3934660420" alt="" width="215" height="61"/>
      </div>
-   </a>
+   </div>
   </div>
+  <div id="PDFViewer">
+    <div id="PDFCloser"> X </div>
+    <iframe src="/ViewerJS/#../res/IPP PLEGRIDY 2808.pdf" width='1024' height='768' allowfullscreen webkitallowfullscreen frameborder="0">
+    </iframe>
+  </div>
+
   <!-- Other scripts -->
   <script type="text/javascript">
    window.Muse.assets.check=function(d){if(!window.Muse.assets.checked){window.Muse.assets.checked=!0;var b={},c=function(a,b){if(window.getComputedStyle){var c=window.getComputedStyle(a,null);return c&&c.getPropertyValue(b)||c&&c[b]||""}if(document.documentElement.currentStyle)return(c=a.currentStyle)&&c[b]||a.style&&a.style[b]||"";return""},a=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),
@@ -132,8 +138,11 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 </script>
   <!-- RequireJS script -->
   <script src="scripts/require.js?crc=244322403" type="text/javascript" async data-main="scripts/museconfig.js?crc=36584860" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
-  <script src="scripts/jquery-1.8.3.min.js" tyoe="text/js"></script>
-  <script src="scripts/menu.js" tyoe="text/js"></script>
+  <script src="scripts/jquery-1.8.3.min.js" type="text/javascript"></script>
+  <script src="scripts/menu.js" type="text/javascript"></script>
+  <script src="scripts/PDFViewer.js" type="text/javascript"></script>
+
   <link rel="stylesheet" href="css/menu.css">
+  <link rel="stylesheet" href="css/pdfViewer.css">
   </body>
 </html>
