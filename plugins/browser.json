@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-document-viewer": {
+            "PACKAGE_NAME": "app.stendal.plegridy"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "app.stendal.plegridy"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "app.stendal.plegridy"
+        }
+    },
+    "dependent_plugins": {}
+}

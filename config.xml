@@ -2,11 +2,17 @@
 <widget id="app.stendal.plegridy" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Plegridy</name>
     <description>
-        A blank PhoneGap app.
+        Presentation
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="hi@evesan.rocks">
+        Evesan
     </author>
     <content src="index.html" />
     <access origin="*" />
+
+    <platform name="ios">
+      <preference name="fullscreen" value="true" />
+      <preference name="target-device" value="tablet" />
+    </platform>
+    <gap:plugin name="cordova-plugin-document-viewer" />
 </widget>

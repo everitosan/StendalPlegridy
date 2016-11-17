@@ -1,0 +1,29 @@
+#PDFViewer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 12;
+  margin: 0 auto;
+  padding: 80px 0 0 0;
+  background: rgba(0,0,0,.6);
+  text-align: center;
+}
+
+#PDFViewer #pdfConainer {
+  width: 100%;
+  margin: 0 auto;
+  height: 90%;
+}
+
+#PDFCloser {
+  position: fixed;
+  color: #a1caed;
+  top: 0;
+  right: 0;
+  background: #FFF;
+  z-index: 13;
+  font-size: 4em;
+  padding: 0.5em;
+}

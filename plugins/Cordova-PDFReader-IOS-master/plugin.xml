@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+    xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    id="com.lesfrancschatons.cordova.plugins.pdfreader"
+    version="1.0.0">
+
+    <name>PDFReader</name>
+	<description>Cordova PDF reader for IOS (based on Reader http://www.vfr.org/)</description>
+    <engines>
+        <engine name="cordova" version=">=3.0.0" />
+    </engines>
+	
+	<license>MIT</license>
+    <keywords>reader,pdf,ios</keywords>
+    <repo>https://github.com/etabard/Cordova-PDFReader-IOS</repo>
+    <issue>https://github.com/etabard/Cordova-PDFReader-IOS/issues</issue>
+
+    <!-- ios -->
+    <platform name="ios">
+
+        <js-module src="www/PDFReader.js" name="PDFReader">
+            <clobbers target="PDFReader" />
+        </js-module>
+        
+        <!-- Cordova 2.2 -->
+        <plugins-plist key="PDFReader" string="PDFReader" />
+                    
+        <!-- Cordova 2.5+ -->
+        <config-file target="config.xml" parent="/*">
+            <feature name="PDFReader">
+                <param name="ios-package" value="PDFReader"/>
+            </feature>
+        </config-file>
+
+        <header-file src="src/ios/PDFReader.h"  />
+        <source-file src="src/ios/PDFReader.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ReaderLanguage.h"  />
+        <source-file src="src/ios/ReaderFramework/ReaderLanguage.m"  />
+
+        <header-file src="src/ios/ReaderFramework/CGPDFDocument.h"  />
+        <source-file src="src/ios/ReaderFramework/CGPDFDocument.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ReaderColors.h"  />
+        <source-file src="src/ios/ReaderFramework/ReaderColors.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ReaderDocument.h"  />
+        <source-file src="src/ios/ReaderFramework/ReaderDocument.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ReaderConstants.h"  />
+        <source-file src="src/ios/ReaderFramework/ReaderConstants.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ReaderViewController.h"  />
+        <source-file src="src/ios/ReaderFramework/ReaderViewController.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ReaderMainToolbar.h"  />
+        <source-file src="src/ios/ReaderFramework/ReaderMainToolbar.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ReaderMainPagebar.h"  />
+        <source-file src="src/ios/ReaderFramework/ReaderMainPagebar.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ReaderContentView.h"  />
+        <source-file src="src/ios/ReaderFramework/ReaderContentView.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ReaderContentPage.h"  />
+        <source-file src="src/ios/ReaderFramework/ReaderContentPage.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ReaderContentTile.h"  />
+        <source-file src="src/ios/ReaderFramework/ReaderContentTile.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ReaderThumbCache.h"  />
+        <source-file src="src/ios/ReaderFramework/ReaderThumbCache.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ReaderThumbRequest.h"  />
+        <source-file src="src/ios/ReaderFramework/ReaderThumbRequest.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ReaderThumbQueue.h"  />
+        <source-file src="src/ios/ReaderFramework/ReaderThumbQueue.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ReaderThumbFetch.h"  />
+        <source-file src="src/ios/ReaderFramework/ReaderThumbFetch.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ReaderThumbRender.h"  />
+        <source-file src="src/ios/ReaderFramework/ReaderThumbRender.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ReaderThumbView.h"  />
+        <source-file src="src/ios/ReaderFramework/ReaderThumbView.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ReaderThumbsView.h"  />
+        <source-file src="src/ios/ReaderFramework/ReaderThumbsView.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ThumbsViewController.h"  />
+        <source-file src="src/ios/ReaderFramework/ThumbsViewController.m"  />
+
+        <header-file src="src/ios/ReaderFramework/ThumbsMainToolbar.h"  />
+        <source-file src="src/ios/ReaderFramework/ThumbsMainToolbar.m"  />
+
+        <header-file src="src/ios/ReaderFramework/UIXToolbarView.h"  />
+        <source-file src="src/ios/ReaderFramework/UIXToolbarView.m"  />
+
+        <resource-file src="src/ios/Reader.bundle" />
+        
+
+        <framework src="UIKit.framework" />
+        <framework src="Foundation.framework" />
+        <framework src="CoreGraphics.framework" />
+        <framework src="QuartzCore.framework" />
+        <framework src="ImageIO.framework" />
+        <framework src="MessageUI.framework" />
+        
+
+
+    </platform>
+</plugin>

@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7A1BE77B8E3776CADDAFBAFE8ADC06C717E64DC9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7A1BE77B8E3776CADDAFBAFE8ADC06C717E64DC9" : 9223372036854775807,
+    "6AB9DBAF0A91804F2D7A8526C4631162B8AADDFB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "904288CE-29CD-4978-8255-2D863A1DFEBA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7A1BE77B8E3776CADDAFBAFE8ADC06C717E64DC9" : "HTML\/",
+    "6AB9DBAF0A91804F2D7A8526C4631162B8AADDFB" : "HTML\/platforms\/ios\/www\/scripts\/PDFObject\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Plegridy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "platforms\/ios\/Plegridy.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pipwerks\/PDFObject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6AB9DBAF0A91804F2D7A8526C4631162B8AADDFB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pipwerks\/PDFObject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6AB9DBAF0A91804F2D7A8526C4631162B8AADDFB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/everitosan\/StendalPlegridy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7A1BE77B8E3776CADDAFBAFE8ADC06C717E64DC9"
+    }
+  ]
+}
