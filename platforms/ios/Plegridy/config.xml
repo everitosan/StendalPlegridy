@@ -33,7 +33,6 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <gap:plugin name="cordova-plugin-document-viewer" />
     <preference name="AllowInlineMediaPlayback" value="false" />
     <preference name="BackupWebStorage" value="cloud" />
     <preference name="DisallowOverscroll" value="false" />
@@ -49,4 +48,5 @@
     <preference name="PaginationMode" value="unpaginated" />
     <preference name="fullscreen" value="true" />
     <preference name="target-device" value="tablet" />
+    <preference name="orientation" value="landscape" />
 </widget>

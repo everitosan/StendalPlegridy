@@ -13,5 +13,6 @@
     <platform name="ios">
       <preference name="fullscreen" value="true" />
       <preference name="target-device" value="tablet" />
+      <preference name="orientation" value="landscape" />
     </platform>
 </widget>
