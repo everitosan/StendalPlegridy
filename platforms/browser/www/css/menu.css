@@ -1,0 +1,25 @@
+#alaMenu {
+  position: absolute;
+  top: 190px !important;
+  left: 0 !important;
+  z-index: 1000;
+}
+
+#alaMenu .closeMenu {
+  background: #FFF;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 0.5em;
+  color: #a1caed;
+  z-index: 1;
+  font-size: 3.6em;
+}
+
+.MuseMenuActive {
+  background: #F48D4C;
+}
+
+.MenuItemContainer {
+  background: #a1caed;
+}

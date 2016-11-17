@@ -1,0 +1,16 @@
+{
+  "name": "plegridy",
+  "version": "1.1.0",
+  "description": "blank template for phonegap and cordova projects",
+  "repository": {
+    "type": "git",
+  },
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "author": "evesan",
+  "license": "Apache-2.0",
+}
