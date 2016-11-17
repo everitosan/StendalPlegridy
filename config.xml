@@ -14,5 +14,4 @@
       <preference name="fullscreen" value="true" />
       <preference name="target-device" value="tablet" />
     </platform>
-    <gap:plugin name="cordova-plugin-document-viewer" />
 </widget>
