@@ -33,6 +33,12 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <icon height="40" src="icon-small-40.png" width="40" />
+    <icon height="80" src="icon-Small-40@2x.png" width="80" />
+    <icon height="76" src="icon76.png" width="76" />
+    <icon height="152" src="icon.png" width="152" />
+    <splash height="768" src="splash.png" width="1024" />
+    <splash height="1536" src="splash.png" width="2048" />
     <preference name="AllowInlineMediaPlayback" value="false" />
     <preference name="BackupWebStorage" value="cloud" />
     <preference name="DisallowOverscroll" value="false" />
